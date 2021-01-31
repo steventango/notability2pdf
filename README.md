@@ -1,6 +1,6 @@
 # notability2pdf
- 
-Extract PDF files from notability (*.note).
+
+Extract PDF files from notability (*.note). Note, the notability files must contain PDF files within them.
 
 Usage:
   - Place notability files in "in" directory
